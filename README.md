@@ -4,6 +4,3 @@
 **- How markdown language works?** <br>
 **- How to create unordered list?**  <br>
 *1. How to create ordered list?* <br>
-*2. ....* 
-
-
