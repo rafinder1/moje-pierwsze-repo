@@ -1,4 +1,4 @@
-*DJKGHSDNKGHSDNKGIJ*
+*TESTTTTTTTTTTT*
 # Devops - postgraduate studies
 ## How git and github works?
 
@@ -7,4 +7,4 @@
 *1. How to create ordered list?* <br>
 
 *TEST - REBASE*
-
+*TEST - CONFILICT*
