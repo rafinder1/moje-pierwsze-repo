@@ -8,3 +8,4 @@
 
 *TEST - REBASE*
 *TEST - CONFILICT*
+text
